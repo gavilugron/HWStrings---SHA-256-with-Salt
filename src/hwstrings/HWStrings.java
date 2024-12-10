@@ -59,7 +59,7 @@ public class HWStrings {
         //Output of the reverse name and it hash using hashCode() method
         System.out.println("The Encripted code whit java method of the name " + rname + " is: " + rname.hashCode());
        
-        //For this section I searched the way to encript in SHA-256 with salt, code that is not of my property,
+        //For this section I searched the way to encrypt in SHA-256 with salt, code that is not of my property,
         //but I used to practice how to import a package and use theirfunctions
         
         
